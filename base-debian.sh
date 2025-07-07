@@ -25,3 +25,8 @@ sudo apt install build-essential --yes
 sudo apt install gzip --yes
 sudo apt install zip unzip --yes
 sudo apt install p7zip-full --yes
+
+# terminal emulators
+# will be replaced by ghostty in future
+sudo apt install alacritty --yes
+
