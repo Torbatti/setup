@@ -1,7 +1,8 @@
 # remove unneccessry apps
-# sudo apt purge gnome-2048 aisleriot anthy anthy-common gnome-chess four-in-a-row five-or-more goldendict hdate-applet hitori iagno gnome-klotski lightsoff gnome-mahjongg gnome-mines mozc-data mozc-server mozc-utils-gui gnome-nibbles quadrapassel gnome-robots gnome-sudoku swell-foop tali gnome-taquin gnome-tetravex
-# sudo apt purge evolution* thunderbird*
-# sudo apt purge libreoffice*
+# sudo apt purge gnome-2048 aisleriot gnome-chess four-in-a-row five-or-more goldendict hdate-applet hitori iagno kasumi gnome-klotski lightsoff gnome-mahjongg gnome-mines mozc-data mozc-server mozc-utils-gui gnome-nibbles quadrapassel gnome-robots gnome-sudoku swell-foop tali gnome-taquin gnome-tetravex
+# sudo apt purge evolution evolution-common
+# sudo apt purge thunderbird*
+# sudo apt purge libreoffice-*
 # sudo apt purge mlterm mlterm-common mlterm-tools xiterm+thai
 # sudo apt autoremove
 
