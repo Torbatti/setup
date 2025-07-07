@@ -9,6 +9,9 @@
 # update and upgrade
 sudo apt update && sudo apt upgrade --yes
 
+# bash auto complete
+sudo apt install bash-completion --yes
+
 # retriving files
 sudo apt install wget curl --yes
 
